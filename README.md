@@ -1,6 +1,6 @@
  BookMyMovies
 
-A Jav Console based Project-Movie Ticket Booking System built using JDBC API and MySQL also contains core Java features like Collections,Error Handling and OOPS.
+A Java Console based Project-Movie Ticket Booking System built using JDBC API and MySQL also contains core Java features like Collections,Error Handling and OOPS.
 
  Features
 - View movies
